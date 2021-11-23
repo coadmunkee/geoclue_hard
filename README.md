@@ -1,4 +1,6 @@
-Geoclue: The Geoinformation Service
+THIS IS NOT the actual Geoclue: The Geoinformation Service
+This is an alternate version of the code in an effort to let me 
+set an accurate, hard-coded lat/long/alt f
 ===================================
 
 Geoclue is a D-Bus geoinformation service. The goal of the Geoclue project
